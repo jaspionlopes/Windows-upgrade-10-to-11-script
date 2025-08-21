@@ -31,3 +31,7 @@ Windows11 official ISO repositories to download:
 
 **Tested on:** Windows 10 22H2 with a Windows 11 24H2 ISO image.
 
+❤️ ☕ Support Development
+If this script has helped you, consider buying me a coffee! Your support is symbolic but means a lot and helps keep the project alive. 🙏💌
+👉 [Donate here](https://www.paypal.com/donate/?business=A9UL3AK7D8WAE&no_recurring=1&item_name=Windows+upgrade+10+to+11+script&currency_code=BRL)
+
