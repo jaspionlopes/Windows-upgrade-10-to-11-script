@@ -34,4 +34,5 @@ Windows11 official ISO repositories to download:
 ❤️ ☕ Support Development
 If this script has helped you, consider buying me a coffee! Your support is symbolic but means a lot and helps keep the project alive. 🙏💌
 👉 [Donate here](https://www.paypal.com/donate/?business=A9UL3AK7D8WAE&no_recurring=1&item_name=Windows+upgrade+10+to+11+script&currency_code=BRL)
+👉 [Doe em PIX](https://nubank.com.br/cobrar/5830o/68a689e7-939e-4f5a-84d8-e6fc1112f21b)
 
