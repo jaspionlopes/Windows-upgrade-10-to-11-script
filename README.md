@@ -4,6 +4,7 @@ A PowerShell script with a graphical interface to quickly and easily upgrade fro
 It allows you to select a Windows 11 ISO, applies hardware bypasses (TPM, CPU, RAM, Secure Boot), and automatically starts the upgrade process.
 
 - **Security Note:** These scripts do **not** contain any viruses, malware, or any malicious code.
+- You can open the scripts with Notepad or any text editor to verify that there is nothing harmful.
 
 ## Instructions
 1. Download the files `upgrade.bat` and `10to11.ps1`.
