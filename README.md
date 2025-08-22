@@ -1,5 +1,5 @@
 # Windows 10 to 11 Upgrade Script
-English version:
+## English version:
 A PowerShell script with a graphical interface to quickly and easily upgrade from Windows 10 to Windows 11. 
 It allows you to select a Windows 11 ISO, applies hardware bypasses (TPM, CPU, RAM, Secure Boot), and automatically starts the upgrade process.
 
@@ -39,7 +39,7 @@ If this script has helped you, consider buying me a coffee! Your support is symb
 👉 [Doe em PIX](https://nubank.com.br/cobrar/5830o/68a689e7-939e-4f5a-84d8-e6fc1112f21b)
 
 
-Versão em Português:
+## Versão em Português:
 Um script do PowerShell com interface gráfica para atualizar de forma rápida e fácil do Windows 10 para o Windows 11. 
 Ele permite selecionar uma ISO do Windows 11, aplicar bypasses de hardware (TPM, CPU, RAM, Inicialização Segura)
 e iniciar automaticamente o processo de atualização.
